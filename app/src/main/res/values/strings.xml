@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Diego Farias</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Olá, meu nome é Diego.
+        \n\nEu amo viajar.
+        \n\nEm momentos de lazer eu gosto de ficar com a família e fazer alguma coisa legal.
+        \n\nAtualmente estou focado somente nos estudos e vou ficar por volta de 6 meses nesse processo
+        \n\nA última empresa que trabalhei era legal por um tempo, porém, acontecerem diversas coisas que me fizeram refletir e com o foco no futuro resolvi tomar a decisão de me demitir.
+        \n\nMeu hobby é carros, gosto muito de cuidar do meu carro sempre que tenho um tempo.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
